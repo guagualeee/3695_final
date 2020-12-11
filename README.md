@@ -2,13 +2,13 @@
 Leo Liu A01019185
 
 ##  Instruction
-'''
+```
 cd floder
 npm install
 npm start
-'''
+```
 ## Example querys
-'''graphql
+```graphql
 query{ 
   posts{ 
     id
@@ -70,4 +70,4 @@ respondComment {
     commentId
     }
 }
-...
+```
